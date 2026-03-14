@@ -65,4 +65,3 @@ JSON Web Tokens (JWT)
 
 bcrypt password hashing
 
-
